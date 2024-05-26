@@ -3,7 +3,7 @@ final int maxDayOfWeek = 7;
 
 /// List contain day of week
 const List<String> dayOfWeekDefault = [
-  'MON',
+  'LUN',
   'TUE',
   'WED',
   'THU',
