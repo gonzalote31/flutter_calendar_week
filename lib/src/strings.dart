@@ -28,4 +28,4 @@ const List<String> monthDefaults = [
   'DICIEMBRE'
 ];
 
-const List<int> weekendsIndexesDefault = [5, 6];
+const List<int> weekendsIndexesDefault = [4, 6];
