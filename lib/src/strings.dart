@@ -4,28 +4,28 @@ final int maxDayOfWeek = 7;
 /// List contain day of week
 const List<String> dayOfWeekDefault = [
   'LUN',
-  'TUE',
-  'WED',
-  'THU',
-  'FRI',
-  'SAT',
-  'SUN'
+  'MAR',
+  'MIE',
+  'JUE',
+  'VIE',
+  'SAB',
+  'DOM'
 ];
 
 /// List contain titles month
 const List<String> monthDefaults = [
-  'JANUARY',
-  'FEBRUARY',
-  'MARCH',
-  'APRIL',
-  'MAY',
-  'JUNE',
-  'JULY',
-  'AUGUST',
-  'SEPTEMBER',
-  'OCTOBER',
-  'NOVEMBER',
-  'DECEMBER'
+  'ENERO',
+  'FEBRERO',
+  'MARZO',
+  'ABRIL',
+  'MAYO',
+  'JUNIO',
+  'JULIO',
+  'AUGOSTO',
+  'SEPTIEMBRE',
+  'OCTUBRE',
+  'NOVIEMBRE',
+  'DICIEMBRE'
 ];
 
 const List<int> weekendsIndexesDefault = [5, 6];
