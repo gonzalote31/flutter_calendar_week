@@ -420,7 +420,7 @@ class _CalendarWeekState extends State<CalendarWeek> {
       date: date,
       dateStyle: compareDate(date, controller._today)
           ? widget.todayDateStyle
-          : date != null && widget.weekendsIndexes.indexOf(widget.daysOfWeek.indexOf(title)) != -1
+          : date != null && widget.weekendsIndexes.indexOf(date.weekday) != -1
               ? widget.weekendsStyle
               : widget.dateStyle,
       pressedDateStyle: widget.datePressedStyle,
