@@ -375,7 +375,7 @@ class _CalendarWeekState extends State<CalendarWeek> {
             margin: widget.marginMonth,
             child: Text(
               title,
-              style: TextStyle(color: widget.todayBackgroundColor, fontWeight: FontWeight.w600, fontSize: 18),
+              style: TextStyle(color: widget.todayBackgroundColor, fontWeight: FontWeight.w700, fontSize: 17),
               overflow: TextOverflow.ellipsis,
               textAlign: TextAlign.center,
             )),
