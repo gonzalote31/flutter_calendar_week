@@ -21,7 +21,7 @@ const List<String> monthDefaults = [
   'MAYO',
   'JUNIO',
   'JULIO',
-  'AUGOSTO',
+  'AGOSTO',
   'SEPTIEMBRE',
   'OCTUBRE',
   'NOVIEMBRE',
